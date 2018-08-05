@@ -1,5 +1,5 @@
 
-cd /Users/santanusarma/Dropbox/MATLAB/magma_v2/Hotspot
+cd ../hotspot
 
 view_grid_ttrace('gcc.grid55x55.steady', 55, 55, 'waterfall', 'Centigrade')
 
