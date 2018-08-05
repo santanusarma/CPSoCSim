@@ -16,7 +16,7 @@ else
     error ('Incorrect no of arguments');
 end
 
-cd('/Users/santanusarma/Dropbox/MATLAB/magma_v2/power_data/ptrace') ;
+cd('..../power/power_data/ptrace') ;
 
 
 %check if the ptrace file is among the benchmark database
