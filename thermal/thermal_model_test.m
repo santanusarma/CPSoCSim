@@ -1,0 +1,1 @@
+%Thernmal model creation test script
