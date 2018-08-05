@@ -1,0 +1,2 @@
+L2_left	L2_bottom	L2_right	Icache	Dcache	Bpred	DTB	FPAdd	FPReg	FPMul	FPMap	IntMap	IntQ	IntReg	IntExec	FPQ	LdStQ	ITB	
+0.662	3.416	0.662	5.508	9.992	2.296	0.128	0.526	0.323	0.556	0.017	0.710	0.252	3.415	4.982	0.015	2.355	0.270	
