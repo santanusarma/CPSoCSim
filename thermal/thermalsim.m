@@ -44,13 +44,13 @@ cmd_part4= [' > ', tempss_file];
 
 cmd=[cmd_part1, cmd_part2, cmd_part3, cmd_part4];
 
-cd ('/Users/santanusarma/Dropbox/MATLAB/magma_v2/HotSpot-5.02');
+cd ('../hotspot/HotSpot-5.02');
 disp('Performing Thermal Simulations ! Please wait for a moment')
 tic;
 t1=cputime;
 eval(cmd);
 
-cd ('/Users/santanusarma/Dropbox/MATLAB/magma_v2')
+%cd ('CPSOCSIM_ROOT')
 t2=cputime;
 simtime=t2-t1;
 toc;
