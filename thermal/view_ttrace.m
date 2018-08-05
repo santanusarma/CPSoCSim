@@ -1,7 +1,7 @@
 function view_ttrace(filename, figno)
 %View temperature tarce files data 
 
-cd('/Users/santanusarma/Dropbox/MATLAB/magma_v2/power_data/ptrace');
+cd('../power/power_data/ptrace');
 if nargin ==1
     
     figno=1;
@@ -9,14 +9,14 @@ if nargin ==1
     if strcmp(filename, '/') % path is given
         
     else
-        cd('/Users/santanusarma/Dropbox/MATLAB/magma_v2/power_data/ptrace');
+        cd('../power/power_data/ptrace');
     end
     
 else
     
 end
 
-%cd('/Users/santanusarma/Dropbox/MATLAB/magma_v2/power_data/ptrace')
+%cd('../power//power_data/ptrace')
 %filename='gcc_2x2.ttrace'; %'gcc.ttrace'
 
 %find the name and extension of the file name
