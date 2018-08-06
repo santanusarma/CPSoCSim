@@ -1,5 +1,5 @@
 function pstruct2ptrace (mpsoc_pstruct, filename)
-%genrate a ptrace file form pstruct power data structure 
+%genrate a ptrace file from power data structure pstruct 
 %mpsoc_pstruct = power trace structure format
 %filename = filename to write the power trace
 
