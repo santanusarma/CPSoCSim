@@ -1,1 +1,1 @@
-#CPSoC Simulator core based on modifed Gem5
+# CPSoC Simulator core based on modifed Gem5
