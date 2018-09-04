@@ -1,1 +1,1 @@
-# List of scripts for hotspoot based thermal profile generation 
+# thermal profile data generation scripts
