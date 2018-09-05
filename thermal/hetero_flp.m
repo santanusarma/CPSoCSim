@@ -197,5 +197,14 @@ ylim([ 40 Tmax])
 %Perform theraml simulation for big-little architecture 
 
 
+%Compute MTTF 
+
+
+
+%Compute change in Vth and Aging 
+
+
+
+%
 
 
